@@ -54,6 +54,41 @@
 
                 </article>
 
+                <section>
+
+                <h1>Creating table example</h1>
+                    <h2>Student registration table</h2>
+                    <table>
+                        <tr>
+                            <th>Name</th>
+                            <th>Age</th>
+                            <th>School</th>
+                        </tr>
+                        <tr>
+                            <td>Samantha</td>
+                            <td>22</td>
+                            <td>QI São Leo </td>
+                        </tr>
+                        <tr>
+                            <td>Rafael</td>
+                            <td>18</td>
+                            <td>QI Gravataí </td>     
+                        </tr> 
+                        <tr>
+                            <td>Luiz</td>
+                            <td>17</td>
+                            <td>QI Gravataí </td>    
+                        </tr>  
+                        <tr>
+                            <td>Vinicius</td>
+                            <td>23</td>
+                            <td>QI São Leo </td>  
+                        </tr>
+                    </table> 
+
+                </section>
+                  
+
                     <footer>
                     </footer>
 

@@ -22,5 +22,20 @@ ol.letters{
 .menu ul li{
     list-style-type: none;
     display: inline-block;
-    margin: 1%;
+    margin-left: 12%;
 }
+
+table, tr, td, th{
+    border-style: solid;
+    border-radius: 5px;
+    margin: 5px;
+    border-collapse: collapse;
+
+}
+
+th, td{
+    padding: 7px;
+    text-align: center;
+
+}
+
