@@ -1,0 +1,19 @@
+.header{
+    width: 100%;
+    height: 30%;
+    background-color: slateblue;
+}
+
+.home{
+    width: 100%;
+    height: 80%;
+    background-color: darkgrey;
+    float: left;
+
+}
+
+.contact{
+    width: 100%;
+    height: 40%;
+    background-color: powderblue;
+}
