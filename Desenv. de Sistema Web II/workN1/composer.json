@@ -1,0 +1,14 @@
+{
+    "name": "luiz/workn1",
+    "description": "work n1 php7",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luiz Souza",
+            "email": "lgu1244@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
