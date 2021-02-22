@@ -1,0 +1,14 @@
+{
+    "name": "luiz/class24",
+    "description": "example review",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luiz Souza",
+            "email": "luixsouza12@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
